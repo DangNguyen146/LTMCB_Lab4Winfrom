@@ -1,0 +1,10 @@
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\bin\Debug\Bai2_HTTPPost.exe.config
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\bin\Debug\Bai2_HTTPPost.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\bin\Debug\Bai2_HTTPPost.pdb
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\obj\Debug\Bai2_HTTPPost.csprojAssemblyReference.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\obj\Debug\Bai2_HTTPPost.Form1.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\obj\Debug\Bai2_HTTPPost.Properties.Resources.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\obj\Debug\Bai2_HTTPPost.csproj.GenerateResource.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\obj\Debug\Bai2_HTTPPost.csproj.CoreCompileInputs.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\obj\Debug\Bai2_HTTPPost.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai2_HTTPPost\Bai2_HTTPPost\obj\Debug\Bai2_HTTPPost.pdb

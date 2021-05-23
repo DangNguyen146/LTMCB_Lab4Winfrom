@@ -1,0 +1,10 @@
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\bin\Debug\Bai1_DisplayHTML.exe.config
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\bin\Debug\Bai1_DisplayHTML.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\bin\Debug\Bai1_DisplayHTML.pdb
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\obj\Debug\Bai1_DisplayHTML.csprojAssemblyReference.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\obj\Debug\Bai1_DisplayHTML.Form1.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\obj\Debug\Bai1_DisplayHTML.Properties.Resources.resources
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\obj\Debug\Bai1_DisplayHTML.csproj.GenerateResource.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\obj\Debug\Bai1_DisplayHTML.csproj.CoreCompileInputs.cache
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\obj\Debug\Bai1_DisplayHTML.exe
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai1_DisplayHTML\Bai1_DisplayHTML\obj\Debug\Bai1_DisplayHTML.pdb
