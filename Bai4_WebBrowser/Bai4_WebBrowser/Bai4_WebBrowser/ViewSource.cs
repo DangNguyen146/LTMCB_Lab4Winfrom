@@ -27,7 +27,6 @@ namespace Bai4_WebBrowser
             {
                 HtmlAgilityPack.HtmlDocument _htmlDoc = htmlWeb.Load(url);
                 txtHTML.Text = _htmlDoc.DocumentNode.InnerHtml;
-
             }
             catch (Exception Ex)
             {

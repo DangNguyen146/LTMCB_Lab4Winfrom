@@ -25,6 +25,7 @@ namespace Bai4_WebBrowser
             WebClient client = new WebClient();
             string downloadString = client.DownloadString(url);
             string filePtach = @"F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai4_WebBrowser\web\index.html";
+            string filePtachIMG = @"F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai4_WebBrowser\web\index.txt";
             FileStream fs = new FileStream(filePtach, FileMode.Create);
             StreamWriter fw = new StreamWriter(fs, Encoding.UTF8);
             fw.WriteLine(downloadString.Trim());
@@ -32,6 +33,22 @@ namespace Bai4_WebBrowser
             fw.Close();
             fs.Close();
 
+            HtmlWeb htmlWeb = new HtmlWeb()
+            {
+                AutoDetectEncoding = false,
+                OverrideEncoding = Encoding.UTF8  //Set UTF8 để hiển thị tiếng Việt
+            };
+            HtmlAgilityPack.HtmlDocument document = htmlWeb.Load(url);
+            string img = "";
+            for (int i = 1; i <= 12; i++)
+                img += document.DocumentNode.SelectSingleNode("//div[@class='reading-detail box_doc']//div["+i+"]//img").Attributes["src"].Value + "\n";
+
+            fs = new FileStream(filePtachIMG, FileMode.Create);
+            fw = new StreamWriter(fs, Encoding.UTF8);
+            fw.WriteLine(img.Trim());
+            fw.Flush();
+            fw.Close();
+            fs.Close();
 
             MessageBox.Show("Success");
 
@@ -40,6 +57,7 @@ namespace Bai4_WebBrowser
             string content = sr.ReadToEnd();
             richTextBox1.Text = content;
             fsOpen.Close();
+
         }
     }
 }

@@ -27,7 +27,6 @@ namespace Bai3_DowloadHTML
         {
             WebClient client = new WebClient();
             string downloadString = client.DownloadString(szURL);
-            //string filePtach = @"F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab4\Bai3_DowloadHTML\index.html";
             FileStream fs = new FileStream(szURLlocal, FileMode.Create);
             StreamWriter fw = new StreamWriter(fs, Encoding.UTF8);
             fw.WriteLine(downloadString.Trim());
